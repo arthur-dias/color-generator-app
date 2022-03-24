@@ -6,7 +6,7 @@ App que gera uma paleta de cores a partir de um input em hex e permite copiar a 
 
 [React](https://github.com/facebook/react/)
 
-[Values.js] (https://github.com/noeldelgado/Values.js/)
+[Values.js](https://github.com/noeldelgado/Values.js/)
 
 ## Inicializar app
 
