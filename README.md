@@ -13,7 +13,7 @@ App que gera uma paleta de cores a partir de um input em hex e permite copiar a 
 1) Clonar repositório;
 2) cd color-generator-app/
 3) npm install || yarn install;
-4) npm run dev || yarn dev;
+4) npm start || yarn start;
 5) Abrir [http://localhost:3000](http://localhost:3000) no browser.
 
 ## Demo
