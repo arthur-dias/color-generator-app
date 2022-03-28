@@ -18,4 +18,4 @@ App que gera uma paleta de cores a partir de um input em hex e permite copiar a 
 
 ## Demo
 
-https://colorgen-app.netlify.app/
+https://groceries-app-1.netlify.app/
